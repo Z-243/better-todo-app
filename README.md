@@ -16,8 +16,8 @@ A sleek and interactive **Todo List App** built with **React.js** and styled usi
 
 ## 📸 Preview
 
-> *(<img width="897" alt="better-todo-app" src="https://github.com/user-attachments/assets/ccb474bc-5b7c-4e64-a778-d04c2fcfbcb4" />
-)*
+> *<img width="597" alt="better-todo-app" src="https://github.com/user-attachments/assets/ccb474bc-5b7c-4e64-a778-d04c2fcfbcb4" />
+*
 
 ---
 
