@@ -8,7 +8,7 @@ A sleek and interactive **Todo List App** built with **React.js** and styled usi
 
 - ✅ Add, complete, and delete todo tasks  
 - 🗂️ Tabbed interface: `All`, `Open`, and `Completed`  
-- 🎨 Beautiful styling with [FantaCSS](https://fantacss.dev/)  
+- 🎨 Beautiful styling with FantaCSS 
 - 💾 Automatic saving with LocalStorage  
 - ⚡ Instant updates with React hooks
 
