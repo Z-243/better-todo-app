@@ -32,3 +32,9 @@ A sleek and interactive **Todo List App** built with **React.js** and styled usi
 - **Styling**: FantaCSS  
 - **State Management**: React `useState`, `useEffect`  
 - **Persistence**: Browser `localStorage`
+
+---
+
+## 🚀 Live Demo
+
+👉 [Better Todo App](https://google-search2-home-page.netlify.app/)
