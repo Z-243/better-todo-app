@@ -1,4 +1,4 @@
-# 📝 React Todo App with FantaCSS & LocalStorage
+# 📝 Better Todo App 
 
 A sleek and interactive **Todo List App** built with **React.js** and styled using **FantaCSS**. This app allows users to add, complete, and delete tasks — all while saving data to **LocalStorage** so your list persists across sessions.
 
@@ -37,4 +37,4 @@ A sleek and interactive **Todo List App** built with **React.js** and styled usi
 
 ## 🚀 Live Demo
 
-👉 [Better Todo App](https://google-search2-home-page.netlify.app/)
+👉 [Better Todo App](https://better-todo-app.netlify.app/)
