@@ -18,11 +18,11 @@ A sleek and interactive **Todo List App** built with **React.js** and styled usi
 
 **DARK MODE**
 
-<img width="597" alt="better-todo-app" src="https://github.com/user-attachments/assets/ccb474bc-5b7c-4e64-a778-d04c2fcfbcb4" />
+<img src="https://raw.githubusercontent.com/Z-243/better-todo-app/main/assets/dark-mode.png" width="500" />
 
 **LIGHT MODE**
 
-<img width="597" alt="better-todo-app-light" src="https://github.com/user-attachments/assets/26016542-4a5f-4ec9-92bf-3659e4372861" />
+<img src="https://raw.githubusercontent.com/Z-243/better-todo-app/main/assets/light-mode.png" width="500" />
 
 ---
 
