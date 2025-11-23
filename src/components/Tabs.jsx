@@ -15,7 +15,6 @@ export function Tabs(props) {
 
         return (
           // elements need keys in reactjs map()
-          //
           <button
             // change the selected tab to tab
             onClick={() => {
